@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 600px;
+    height: auto;
+    background-color: rgba(68, 199, 74, 0.753);
+    margin: 100px 100px 100px 250px;
+}
